@@ -1,0 +1,15 @@
+L_LVPal
+L_MPal
+L_Amy
+L_BG
+L_DSP
+L_POC
+L_Hy
+L_PreThal
+L_Thal
+L_EpiThal
+L_PrT
+L_Mid
+L_Pons
+L_Cb
+L_Med
